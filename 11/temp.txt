@@ -1,0 +1,4 @@
+Written using dup() fd
+Written using dup2() fd
+Written using fcntl() fd
+Written using original fd.
