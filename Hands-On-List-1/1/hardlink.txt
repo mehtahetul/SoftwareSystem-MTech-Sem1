@@ -1,2 +1,0 @@
-hello linux
-adding this using the hardlink haha
