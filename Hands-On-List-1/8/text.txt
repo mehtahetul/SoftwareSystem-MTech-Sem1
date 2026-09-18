@@ -1,0 +1,3 @@
+My name is Hetul Mehta.
+I am doing the 8th practical of Software Systems.
+Reading file line by line.
