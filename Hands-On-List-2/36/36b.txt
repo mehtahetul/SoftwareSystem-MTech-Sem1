@@ -1,0 +1,33 @@
+==========================================================================================================================
+Name : 36b.txt
+Author : Hetul Mehta
+Question : FIFO File Creation: Create a FIFO file using mkfifo command.
+==========================================================================================================================
+
+Command :
+
+mkfifo myfifo
+
+Output :
+
+mkfifo: cannot create fifo 'myfifo': File exists
+
+(Note: The FIFO already existed from Part A.)
+
+Command :
+
+mkfifo myfifo2
+
+Output :
+
+(No output on successful execution)
+
+Command :
+
+ls -l myfifo2
+
+Output :
+
+prw-rw-r-- 1 hetul hetul 0 Oct 21 14:53 myfifo2
+
+==========================================================================================================================
